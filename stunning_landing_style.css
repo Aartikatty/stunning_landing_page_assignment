@@ -162,14 +162,29 @@ main .banner img{
 .dropdown{
    cursor: pointer;
 }
-.Commom-btn {
+.Common_btn {
 
    background-color: #FFD8DB;
    border-radius: 20px;
-   padding: 14px 21px;
+   padding: 20px 25px;
+   color: #A389CC;
+   width: 150px;
+   height: 60px;
+   font-weight: 900;
+   padding-bottom: 10px;
 }
-.Common-btn dark {
 
-   color: #fff;
+.Common_btn_dark {
+   width: 180px;
+   border-radius: 25px;
+   height: 60px;
+   padding: 20px 30px;
    background-color: #5243C0;
+   color:#ffffff;
+   border: none;
+   font-weight: 600;
+   
+}
+main ul li:hover{
+   background-color: #FFD8DB;
 }
