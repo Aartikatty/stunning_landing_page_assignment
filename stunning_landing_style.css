@@ -207,5 +207,6 @@ main .banner img{
    
 }
 main ul li:hover{
-   background-color: #FFD8DB;
+   background-color: blue;
+   color: white
 }
